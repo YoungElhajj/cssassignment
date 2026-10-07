@@ -1,0 +1,272 @@
+*{
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    max-width: 100%;
+    
+
+}
+
+
+.head{
+    width: 100%;
+    height: 25px;
+    background-color: rgb(223, 52, 58);
+    text-align: center;
+    font-size: 15px;
+    color: white;
+    font-family: "Manrope", sans-serif;
+    font-weight: 250;
+    
+}
+.header{
+    width: 1300px;
+    /* height: 30px; */
+    max-height: 30px;
+    background-color: rgb(41, 41, 41);
+    color: white;
+    border-radius: 50px;
+    margin: auto;
+    margin-top: 5px;
+    padding-top: 20px;
+    padding-bottom: 60px;
+    
+
+
+    
+    
+}
+
+.bt{
+    text-decoration: none;
+    color: white;
+    margin-inline: 15px;
+    
+    
+
+
+}
+
+
+.bt1{
+    padding-left: 180px;  
+    
+    
+}
+
+.bt2{
+padding-left: 70px;
+}
+
+.Div{
+    display: inline;
+    font-family: "Manrope", sans-serif ;
+    font-size: 14px;
+    margin-left: 100px;
+   
+    
+}
+
+.track{
+    width: 110px;
+    height: 30px;
+    background-color: rgb(195, 32, 38);
+    color: white;
+    margin-left: 1000px;
+    padding-top: 5px;
+    padding-bottom: 15px;
+    font-family: "Manrope", sans-serif;
+    font-size: 12px;
+    border-radius: 15px;
+    border: 1px solid rgb(195, 32, 38);
+    
+
+    
+}
+
+/* .track2{
+    background-color: black;
+    border: 1px solid white;
+     margin-left: 1120px;
+     padding-bottom: 30px;
+    
+    
+
+} */
+
+.hero{
+    
+    width: 100%;
+    height: 600px;
+    background : linear-gradient(90deg, rgb(252, 241, 240), rgb(248, 233, 232), rgb(247, 222, 222), rgb(245, 219, 221), rgb(252, 246, 247), rgb(253, 253, 253), rgb(249, 236, 236));
+    padding-left: 20px;
+    font-family: "Manrope", sans-serif;
+}
+
+
+.heroflex{
+    display: flex;
+}
+.deliver{
+    display: block;
+    margin-top: 50px;
+   font-size: 45px;
+   font-weight: 800;
+   
+}
+
+.speed{
+    font-weight: 800;
+    color: rgb(195, 32, 38);
+    font-size: 45px;
+    line-height:15px;
+}
+
+.power{
+    font-size: 15px;
+    font-weight: 300;
+    line-height: 80px;
+}
+
+.org{
+    font-size: 15px;
+    font-weight: 300;
+    line-height: 0%;
+}
+
+.gig{
+
+    width: 100%;
+    height: 130px;
+    padding-top: 50px;
+    padding-left: 50px;
+    /* background-color: black; */
+}
+
+.tx{
+    color: rgb(195, 32, 38);
+    font-family: "Manrope", sans-serif;
+    font-size: 45px;
+    font-weight: 700;
+
+}
+
+.tx1{
+    color: black;
+}
+
+.dis{
+    font-family: "Manrope", sans-serif;
+    font-weight: 250;
+    
+}
+
+.card{
+    width: 100%;
+    height: 500px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.paragraph{
+    font-family: "Manrope", sans-serif;
+    font-weight: 700;
+    font-size: 35px;
+    margin-top: 120px;
+}
+
+.paragraph1{
+    font-family: "Manrope", sans-serif;
+    font-weight: 100;
+    
+}
+
+.card1{
+    width: 1100px;
+    height: 400px;
+    background-color: rgb(250, 233, 233);
+    margin-right: 200px;
+    padding: 50px;
+    border-radius: 20px;
+
+}
+
+.section3{
+    display: flex;
+}
+.paragraph3{
+    font-family:  "Manrope", sans-serif;
+    font-size: 35px;
+    font-weight: 700;
+
+}
+
+.card2{
+
+    margin-top: 30px;
+    width: 800px;
+    /* height: 400px; */
+    background-color: rgb(231, 229, 240);
+    border-radius: 20px;
+    margin-left: 50px;
+    padding: 50px;
+
+}
+
+.divCard2{
+
+    margin-top: 100px;
+    margin-left: 30px;
+}
+
+.p4{
+    font-family:  "Manrope", sans-serif;
+    font-size: 35px;
+    font-weight: 700;
+    margin-bottom: 30px;
+}
+
+.learn{
+    color: white;
+    background-color: rgb(195, 32, 38);
+    width: 150px;
+    height: 30px;
+    border-radius: 20px;
+    margin-top: 30px;
+    text-align: center;
+    padding-top: 15px;
+}
+
+.section4{
+    background-color: rgb(31, 31, 31);
+    width: 100%;
+    height: 300px;
+    margin-top: 70px;
+    padding: 70px;
+}
+
+.p5{
+    color: white;
+    font-family:  "Manrope", sans-serif;
+    font-weight: 700;
+    font-size: 40px;
+
+}
+.p6{
+    color: rgb(195, 32, 38);
+    font-family:  "Manrope", sans-serif;
+    font-weight: 700;
+    font-size: 40px;
+}
+.p7{
+    font-family:  "Manrope", sans-serif;
+    color: white;
+    font-weight: 200;
+}
+
+.p8{
+    color: white;
+    font-family:  "Manrope", sans-serif;
+    font-weight: 500;
+    font-size: 30px;
+}

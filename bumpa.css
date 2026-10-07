@@ -1,0 +1,243 @@
+body{
+    margin: 0;
+    padding: 0;
+    max-width: 100%;
+}
+
+.nav1{
+    background-color: rgb(69, 69, 69);
+    color: white;
+    width: 100%;
+    height: 40px;
+    font-family:  "Manrope", sans-serif;
+    font-size: 15px;
+    padding-top: 18px;
+
+}
+.navDiv{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.nav2{
+    height: 60px;
+    width: 100%;
+    color: rgb(32, 32, 33);
+    font-family:  "Manrope", sans-serif;
+    font-size: 15px;
+
+}
+
+.businessDiv{
+  display: flex;
+  justify-content: center;
+
+}
+
+.img1{
+    margin-right: 50px;
+}
+
+.flag{
+    background-color: rgb(248, 248, 248);
+    height: 40px;
+    width: 50px;
+    border-radius: 10px;
+    margin-left: 20px;
+    padding-top: 10px;
+    padding-left: 20px;
+    
+}
+
+.login{
+    width: 120px;
+    height: 35px;
+    border-radius: 10px;
+    border: 2px solid rgb(0, 148, 68);
+    text-align: center;
+    padding-top: 10px;
+    padding-left: 10px;
+    color: green;
+}
+
+.signup{
+    color: white;
+    background-color: rgb(0, 148, 68);
+    border-radius: 10px;
+    width: 120px;
+    height: 40px;
+    text-align: center;
+    padding-top: 12px;
+}
+.button{
+    display: flex;
+    gap: 12px;
+    
+   
+    
+}
+
+.motherDiv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 15px;
+}
+
+.hero{
+    width: 100%;
+    height: 500px;
+    font-family:  "Manrope", sans-serif;
+    
+
+}
+.p1{
+
+    width: 260px;
+    height: 40px;
+    background-color: rgb(249, 255, 250);
+    border: 1px solid rgb(0, 148, 68);
+    border-radius: 8px;
+    justify-self: center;
+    margin-top: 150px;
+    text-align: center;
+    /* padding-top: 8px; */
+    box-shadow: 0 0 100px 5px rgb(0, 0, 0, 0.2)  ;
+    display: flex;
+    align-items: center;
+    padding-left: 10px;
+    font-size: 14px;
+    gap: 5px;
+}
+
+.p2{
+    justify-self: center;
+    font-size: 50px;
+    margin-top: 30px;
+    font-weight: 700;
+
+}
+
+.p2 span{
+    color:rgb(0, 148, 68) ;
+    
+}
+.p3{
+    line-height: 5px;
+}
+
+.simplify{
+   justify-self: center;
+   display: block;
+   line-height: 10px;
+}
+
+.get{
+    width: 280px;
+    height: 40px;
+    background-color: rgb(0, 148, 68);
+    color: white;
+    justify-self: center;
+    margin-top: 30px;
+    text-align: center;
+    border-radius: 10px;
+    padding-top: 20px;
+}
+
+.logos{
+    max-width: 100%;
+    margin-top: 50px;
+    
+    
+}
+
+.banner{
+    width: 100%;
+    height: 800px;
+    background-image: url("https://www.getbumpa.com/images/herolytics.svg");
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-top: 60px;
+        
+}
+
+
+.card1{
+    width: 1050px;
+    height: 270px;
+    max-height: 270px;
+    background-color: rgb(241, 247, 255);
+    font-family: "Manrope", sans-serif;
+    justify-self: center;
+    border-radius: 25px;
+    margin-bottom: 30px;
+    padding-left: 50px;
+    padding-top: 50px;
+    padding-bottom: 100px;
+    
+}
+
+.card2{
+    width: 450px;
+    height: 680px;
+    background-color: rgb(255, 248, 231);
+    font-family:  "Manrope", sans-serif ;
+    border-radius: 25px;
+   padding: 30px 50px 0px 50px;
+   
+
+    
+}
+
+.card3{
+    width: 450px;
+    height: 680px;
+    background-color: rgb(251, 234, 238);
+    font-family: "Manrope", sans-serif;
+    border-radius: 25px;
+    padding: 30px 50px 0px 50px ;
+    
+
+}
+
+.secondCards{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin-bottom: 100px;
+}
+
+
+.c1{
+    font-size: 35px;
+    font-weight: 650;
+    line-height: 35px;
+    
+
+}
+
+.cardimg{
+    display: flex;
+}
+
+.imgCard{
+    display: block;
+    margin-left: 100px;
+    
+}
+
+.c2{
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 35px;
+}
+
+.learn{
+    margin-bottom: 173px;
+    
+}
+
+.learn1{
+    margin-bottom: 220px ;
+}

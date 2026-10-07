@@ -1,0 +1,155 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+.motherDiv {
+    max-height: 100%;
+    max-width: 100%;
+    background-color: rgb(254, 254, 254);
+
+}
+
+.just {
+    font-size: 48px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(69, 69, 69);
+    padding-top: 80px;
+}
+.people{
+    width: 90px;
+    height: 40px;
+    border-radius: 15px;
+    border: 0.5px solid rgb(237, 240, 242);
+    background-color: rgb(237, 240, 242);
+    font-size: 16px;
+    display: block;
+    text-align: center;
+    color: rgb(69, 69, 69);
+   
+}
+.Products{
+    width: 90px;
+    height: 40px;
+    border-radius: 15px;
+    border: 0.5px solid rgb(255, 255, 255);
+    background-color: rgb(255, 255, 255);
+    font-size: 16px;
+    display: block;
+    text-align: center;
+    color: rgb(69, 69, 69);
+
+}
+.button{
+    display: flex;
+    gap: 5px;
+    margin-left: 480px;
+    
+}
+
+.image{
+    width: 280px;
+    height: 380px;
+    border-radius: 15px;
+    margin-inline: 10px;
+    color: rgb(69, 69, 69);
+    
+    
+}
+
+.image1{
+    margin-left: 120px;
+}
+.tx{
+    margin-left: 220px;
+    
+}
+.tx4{
+    padding-left: 180px;
+}
+.sm{
+    color: rgb(69, 69, 69);
+    margin-left: 570px;
+    font-size: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.upload{
+
+    width: 450px;
+    height: 300px;
+    border: 1px solid rgb(232, 228, 228);
+    margin-top: 70px;
+    margin-left: 500px;
+    border-radius: 25px;
+    background-color: rgb(255, 255, 255);
+ 
+}
+.drop{
+    font-size: 21px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(69, 69, 69);
+    text-align: center;
+
+}
+
+.paste{
+    text-align: center;
+    color: rgb(69, 69, 69);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: block;
+}
+
+.img2{
+    width: 53px;
+    height: 50px;
+    border-radius: 15px;
+   
+    
+}
+
+.display{
+    display: flex;
+    margin-top: 40px;
+    gap: 10px;
+}
+.img1{
+    margin-left: 85px;
+
+}
+
+
+
+#file-input{
+    display: none;
+   
+}
+
+
+.upload{
+    background-color: white;
+   border-color: lightgray;
+   box-shadow: 0 0 15px rgba(108, 106, 106, 0.7);
+   
+}
+
+.file{
+    width: 220px;
+    height: 40px;
+    background-color: rgb(15, 112, 229);
+    color: rgb(255, 255, 255);
+    margin-left: 110px;
+    text-align: center;
+    border-radius: 30px;
+    padding-top: 13px;
+    margin-top: 100px;
+    margin-bottom: 10px;
+    font-size: 25px;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+   
+
+
+}

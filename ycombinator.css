@@ -1,0 +1,230 @@
+body{
+    margin: 0;
+    padding: 0;
+    max-width: 100%;
+    background-color: rgb(245, 245, 238);
+}
+
+.nav{
+    width: 100%;
+    height: 70px;
+    background-color: rgb(245, 245, 238);
+    display: flex;
+    justify-content:center ;
+    
+    
+
+}
+
+.navtexts{
+    display: flex;
+    align-items: center;
+    padding-top: 30px;
+    gap: 50px;
+    font-family: "Outfit", sans-serif;
+    font-size: 16px;
+    font-weight: 350;
+    margin-left: 150px;
+    /* margin-right: 200px; */
+    
+}
+
+.logo{
+    
+    display: block;
+   padding-bottom: 20px;
+    
+}
+
+.div2{ 
+    gap: 18px;
+    width: 150px;
+    height: 30px;
+    display: flex;
+    padding-top: 15px;
+    align-items: center;
+
+}
+
+.login{
+ margin-left: 200px;
+ font-family: "Outfit", sans-serif;
+ font-weight: 270;
+ font-size: 15px;
+ 
+}
+
+.apply{
+    background-color: black;
+    border-radius: 20px;
+    color: white;
+    padding: 10px 20px;
+    font-family: "Source Serif 4", serif;
+    
+
+}
+.hd{
+   margin-bottom: 20px;
+}
+
+.hero{
+    width: 100%;
+    height: 700px;
+    background-color: rgb(245, 245, 238);
+    font-family: "Source Serif 4", serif;
+     
+
+}
+
+.p1{
+    font-size: 75px;
+    display: block;
+    text-align: center;
+    padding-top: 150px;
+    font-weight: 450;
+    
+}
+
+.p2{
+    font-size: 20px;
+    text-align: center;
+    display: flex;
+    justify-self: center;
+    
+}
+
+.section2{
+    width: 100%;
+    height: 800px;
+}
+
+.p3{
+    font-size: 48px;
+    font-family: "Source Serif 4", serif;
+    display: block;
+    text-align: center;
+    margin-bottom: 60px;
+}
+
+.outer{
+    display: flex;
+    gap: 30px;
+    flex-direction: column;
+    justify-content: center;
+
+   
+    
+    
+}
+
+.motherDiv{
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+    
+}
+
+.inner1{
+    width: 400px;
+    height: 270px;
+    /* background-color: rgb(0, 0, 0, 0.7); */
+    border-radius: 15px;
+    overflow: hidden;
+    position: relative;
+    
+}
+
+
+
+.text{
+    color: white;
+    margin-left: 25px;
+    position: absolute;
+    bottom: 45px;
+    font-family: "Outfit", sans-serif;
+
+
+}
+
+.inner2{
+    width: 400px;
+    height: 270px;
+    /* background-color: green; */
+    border-radius: 15px;
+    overflow: hidden;
+    position: relative;
+
+}
+
+.inner3{
+    width: 400px;
+    height: 270px;
+    /* background-color: yellow; */
+    border-radius: 15px;
+    color: white;
+    overflow: hidden;
+    position: relative;
+}
+
+/* .inner1 video{
+    opacity: 0.1;
+}
+.inner2 video{
+    opacity: 0.1;
+}
+
+.inner3 video{
+    opacity: 0.1;
+}
+
+.inner1:hover video{
+    opacity: 1;
+}
+.inner2:hover video{
+    opacity: 1;
+}
+
+.inner3:hover video{
+    opacity: 1;
+} */
+
+
+.inner1::before{
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: rgb(0, 0, 0, 0.8);
+    
+
+}
+
+.inner2::before{
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: rgb(0, 0, 0, 0.8);
+    
+}
+
+.inner3::before{
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: rgb(0, 0, 0, 0.8);
+
+}
+
+.inner1:hover::before{
+    opacity: 0;
+}
+
+.inner2:hover:before{
+    opacity: 0;
+}
+
+.inner3:hover:before{
+    opacity: 0;
+}
